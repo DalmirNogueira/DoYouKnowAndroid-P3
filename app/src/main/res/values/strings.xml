@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DoYouKnowAndroid</string>
+    <string name="name">Name</string>
+    <string name="question1">What company developed Android?</string>
+    <string name="question2">Which year Android was released?</string>
+    <string name="question3">Which alternatives are code names for Android versions?</string>
+    <string name="question4">What\'s the Android logo? If you get this right, your final score is multiplied by 2.</string>
+    <string name="submitScore">Submit Score</string>
+    <string name="q2a1">2007</string>
+    <string name="q2a2">2008</string>
+    <string name="q2a3">2009</string>
+    <string name="q2a4">2017</string>
+    <string name="q4a1">A</string>
+    <string name="q4a2">B</string>
+    <string name="q4a3">C</string>
+    <string name="q4a4">D</string>
+    <string name="q3a1">Cupcake, Donut, Eclair</string>
+    <string name="q3a2">Snow Leopard, Lion, Maverick</string>
+    <string name="q3a3">Fettucine, Lasagne, Spaghetti</string>
+    <string name="q3a4">Marshmallow, Nougat, Oreo</string>
+</resources>
